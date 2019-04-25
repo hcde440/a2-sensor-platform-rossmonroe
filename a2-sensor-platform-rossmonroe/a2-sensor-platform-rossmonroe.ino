@@ -42,7 +42,7 @@ AdafruitIO_Feed *airquality = io.feed("airquality");
 AdafruitIO_Feed *airqualityresponse = io.feed("airqualityresponse");
 
 // ------------- API CALLS -------------
-String airVisualKey = "5DmgG7vy34ic6u3WS";
+String airVisualKey = "####";
 
 typedef struct {
   String st; //Status of data call
